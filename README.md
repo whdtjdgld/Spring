@@ -12,3 +12,4 @@ maven을 이용한 서버실행까지
 2nd commit (예정)
 
 controller 설정
+spring boot 사용
