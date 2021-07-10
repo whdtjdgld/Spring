@@ -1,0 +1,6 @@
+이거 만든 이유
+주소창 http://~~~~~/index 가 와야하는데 
+계속 webprj/index로 온다
+webprj를 없애기 위한
+일종의 꼼수다
+여기서 실행하면 http://~~/index로 indexController 실행됨
