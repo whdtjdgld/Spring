@@ -12,4 +12,8 @@ maven을 이용한 서버실행까지
 2nd commit (예정)
 
 controller 설정
-spring boot 사용
+servlet 주소설정 및 활용
+viewresolver 활용하여 주소창 편리하게
+html css 올리기
+image 경로 설정 및 활용
+
