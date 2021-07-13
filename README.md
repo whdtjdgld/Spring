@@ -5,7 +5,7 @@ Beginner's Spring study
 
 개발환경설정
 
-STS 4, Tomcat 9.0.50 ver  
+eclipse STS 4, Tomcat 9.0.50 ver  
 
 pom.xml web.xml 환경설정
 
